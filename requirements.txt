@@ -1,0 +1,16 @@
+streamlit
+plotly
+pandas
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+faiss-cpu
+python-dotenv
+huggingface-hub
+sentence-transformers
+pydantic
+pypdf
+python-docx
+google-genai
+groq

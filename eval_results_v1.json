@@ -1,0 +1,104 @@
+{
+  "n": 12,
+  "answered": 12,
+  "accuracy": 0.583,
+  "high_risk_recall": 1.0,
+  "rows": [
+    {
+      "id": "good_01",
+      "expected": "Recommended",
+      "predicted": "Consider with Caution",
+      "score": 85,
+      "correct": false,
+      "error": null
+    },
+    {
+      "id": "good_02",
+      "expected": "Recommended",
+      "predicted": "Recommended",
+      "score": 93,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "good_03",
+      "expected": "Recommended",
+      "predicted": "Recommended",
+      "score": 91,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "good_04",
+      "expected": "Recommended",
+      "predicted": "Recommended",
+      "score": 90,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "caution_01",
+      "expected": "Consider with Caution",
+      "predicted": "High Risk",
+      "score": 43,
+      "correct": false,
+      "error": null
+    },
+    {
+      "id": "caution_02",
+      "expected": "Consider with Caution",
+      "predicted": "High Risk",
+      "score": 55,
+      "correct": false,
+      "error": null
+    },
+    {
+      "id": "caution_03",
+      "expected": "Consider with Caution",
+      "predicted": "High Risk",
+      "score": 66,
+      "correct": false,
+      "error": null
+    },
+    {
+      "id": "caution_04",
+      "expected": "Consider with Caution",
+      "predicted": "High Risk",
+      "score": 46,
+      "correct": false,
+      "error": null
+    },
+    {
+      "id": "risk_01",
+      "expected": "High Risk",
+      "predicted": "High Risk",
+      "score": 10,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "risk_02",
+      "expected": "High Risk",
+      "predicted": "High Risk",
+      "score": 33,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "risk_03",
+      "expected": "High Risk",
+      "predicted": "High Risk",
+      "score": 5,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "risk_04",
+      "expected": "High Risk",
+      "predicted": "High Risk",
+      "score": 0,
+      "correct": true,
+      "error": null
+    }
+  ]
+}

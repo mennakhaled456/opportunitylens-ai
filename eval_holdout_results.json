@@ -1,0 +1,96 @@
+{
+  "n": 11,
+  "answered": 11,
+  "accuracy": 1.0,
+  "high_risk_recall": 1.0,
+  "rows": [
+    {
+      "id": "hold_good_01",
+      "expected": "Recommended",
+      "predicted": "Recommended",
+      "score": 93,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "hold_good_02",
+      "expected": "Recommended",
+      "predicted": "Recommended",
+      "score": 89,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "hold_good_03",
+      "expected": "Recommended",
+      "predicted": "Recommended",
+      "score": 86,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "hold_caution_01",
+      "expected": "Consider with Caution",
+      "predicted": "Consider with Caution",
+      "score": 51,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "hold_caution_02",
+      "expected": "Consider with Caution",
+      "predicted": "Consider with Caution",
+      "score": 57,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "hold_caution_03",
+      "expected": "Consider with Caution",
+      "predicted": "Consider with Caution",
+      "score": 47,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "hold_risk_01",
+      "expected": "High Risk",
+      "predicted": "High Risk",
+      "score": 5,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "hold_risk_02",
+      "expected": "High Risk",
+      "predicted": "High Risk",
+      "score": 4,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "hold_nofee_01",
+      "expected": "Recommended",
+      "predicted": "Recommended",
+      "score": 87,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "hold_nofee_02",
+      "expected": "Consider with Caution",
+      "predicted": "Consider with Caution",
+      "score": 53,
+      "correct": true,
+      "error": null
+    },
+    {
+      "id": "hold_scam_nofee_01",
+      "expected": "High Risk",
+      "predicted": "High Risk",
+      "score": 5,
+      "correct": true,
+      "error": null
+    }
+  ]
+}

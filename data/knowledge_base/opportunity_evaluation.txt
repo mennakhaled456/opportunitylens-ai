@@ -1,0 +1,35 @@
+Opportunity Evaluation Criteria
+
+An opportunity can be evaluated using several dimensions.
+
+Role Clarity:
+Check whether the position, responsibilities, required skills, and expected activities are clearly explained.
+
+Learning Potential:
+Evaluate whether the opportunity provides training, mentorship, practical projects, technical skills, professional development, or exposure to real work.
+
+Company Information:
+Check whether the company identity, website, contact information, and organization details are available and credible.
+
+Compensation:
+Determine whether compensation is clearly stated. A paid opportunity may provide financial value, while an unpaid opportunity should provide strong educational or career value.
+
+Time Commitment:
+Evaluate duration, working hours, schedule, deadlines, and flexibility.
+
+Career Relevance:
+Determine how closely the opportunity matches the applicant's skills, interests, education, and career goals.
+
+Professionalism:
+Look for clear communication, realistic requirements, organized application procedures, and professional language.
+
+Risk Level:
+Identify missing information, unrealistic promises, excessive personal information requests, pressure tactics, unclear organizations, or suspicious payment requirements.
+
+Overall Evaluation:
+A strong opportunity should score well across role clarity, learning potential, company credibility, career relevance, professionalism, and transparency.
+
+The system should distinguish between:
+- Good opportunity: valuable and transparent.
+- Potentially good but needs verification: useful opportunity with missing or unclear information.
+- High risk: multiple warning signs or suspicious requirements.

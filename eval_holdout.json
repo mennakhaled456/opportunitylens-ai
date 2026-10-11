@@ -1,0 +1,57 @@
+[
+  {
+    "id": "hold_good_01",
+    "expected": "Recommended",
+    "text": "Computer Vision Intern at PixelWorks, a registered Cairo company with an active website. 4 months, hybrid (2 days on site), 25 hours per week, paid 7,000 EGP per month. You will train and evaluate object detection models with a dedicated senior engineer, attend weekly code reviews and present results at the end. Requirements: Python, basic PyTorch, strong interest in computer vision. Process: CV screening, a technical interview and a short take-home task. Certificate provided."
+  },
+  {
+    "id": "hold_good_02",
+    "expected": "Recommended",
+    "text": "Junior Data Engineer Trainee at a telecom operator's data team. 6 months, on site in Giza, 35 hours per week, paid with transport allowance. A structured program covers SQL, Airflow and cloud basics, with an assigned mentor and monthly feedback sessions. Requirements: CS or related degree, Python and SQL basics. Apply through the official careers portal. High-performing trainees are considered for full-time roles."
+  },
+  {
+    "id": "hold_good_03",
+    "expected": "Recommended",
+    "text": "NLP Research Assistant at a university lab. 3 months, remote, 15 hours per week, monthly stipend of 5,500 EGP. You will help build Arabic text classification datasets under the supervision of a professor, join weekly lab meetings, and may be listed on a resulting paper. Requirements: Python, familiarity with transformers. Apply by email with CV and transcript; interviews are held on video call."
+  },
+  {
+    "id": "hold_caution_01",
+    "expected": "Consider with Caution",
+    "text": "Junior Python Developer Intern at a small software house. 3 months, on site. Salary to be discussed in the interview. You will work on client projects with the development team. Requirements: Python and basic Django. No details about mentorship or working hours are provided. Apply via the company's contact form."
+  },
+  {
+    "id": "hold_caution_02",
+    "expected": "Consider with Caution",
+    "text": "Business Intelligence Intern. Unpaid, 2 months, remote, 12 hours per week. You will build Power BI dashboards for the sales team and receive a certificate at the end. The company is a small retailer with a public website. Requirements: Excel and basic Power BI. Mentorship is not mentioned."
+  },
+  {
+    "id": "hold_caution_03",
+    "expected": "Consider with Caution",
+    "text": "AI Intern wanted at an early-stage startup. 6 months, on site, 45 hours per week, paid 1,500 EGP per month. You will work directly with the founder on a chatbot product and take on whatever tasks come up. Requirements: Python, any experience with LLMs. Apply by sending your CV to the founder's email."
+  },
+  {
+    "id": "hold_risk_01",
+    "expected": "High Risk",
+    "text": "Become a Certified Online Assistant! Our partner company is hiring hundreds of remote assistants. Complete the paid certification course first, 1,200 EGP, and you will be placed with a client within a week. Placement is guaranteed for every graduate. Contact our agent on WhatsApp today to reserve your seat."
+  },
+  {
+    "id": "hold_risk_02",
+    "expected": "High Risk",
+    "text": "Operations Intern needed for a fast-growing company. Hours are 8 AM to 10 PM, six days a week, with no breaks. The role is unpaid and there is no written contract. Tasks will be assigned as needed by management. No details are given about the company, its location or its website. Reply with your CV and home address to apply."
+  },
+  {
+  "id": "hold_nofee_01",
+  "expected": "Recommended",
+  "text": "Software Engineering Intern at BrightLabs. 3 months, paid 8,000 EGP per month, hybrid in Cairo, 25 hours per week. You will work on a real product with a dedicated mentor and weekly code reviews. There is no application fee and no registration fee. Apply through our official careers page after a technical interview. Requirements: Python, Git, basic SQL."
+},
+{
+  "id": "hold_nofee_02",
+  "expected": "Consider with Caution",
+  "text": "Marketing Assistant at a small agency in Giza. 6 months, part-time, compensation to be discussed in the interview. We never ask for any fees or deposits. Tasks include social media posts and simple reports. A senior marketer will review your work when available. Send your CV to our company email."
+},
+{
+  "id": "hold_scam_nofee_01",
+  "expected": "High Risk",
+  "text": "Online Assistant needed, no experience needed. Guaranteed job, no interview. Send your national ID and bank account number to our WhatsApp today and start earning $3000 per week."
+}
+]

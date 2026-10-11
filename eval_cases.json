@@ -1,0 +1,62 @@
+[
+  {
+    "id": "good_01",
+    "expected": "Recommended",
+    "text": "Junior Machine Learning Intern at TechVision AI. 3-month remote program, 20 hours per week. Interns work on real ML projects with weekly mentorship from senior engineers and receive a completion certificate. Monthly stipend of 8,000 EGP. Requirements: basic Python and basic ML knowledge. Apply through careers@techvision.ai after a short technical interview. Possibility of full-time offer based on performance."
+  },
+  {
+    "id": "good_02",
+    "expected": "Recommended",
+    "text": "Backend Developer Intern, Nile Software (registered company, website nilesoftware.com). 4 months, hybrid (3 days on site in Cairo), 25 hours per week, paid 6,000 EGP per month. You will build REST APIs with FastAPI under a dedicated mentor, take part in code reviews, and present your work at the end. Requirements: Python, basic SQL, Git. Hiring process: CV, 30 minute interview, small take-home task. Certificate and reference letter provided."
+  },
+  {
+    "id": "good_03",
+    "expected": "Recommended",
+    "text": "Data Analyst Trainee at a bank's analytics department. 6 months, paid, 30 hours per week, on site. Structured training plan in SQL, Power BI and statistics, an assigned supervisor, and a final project presented to management. Requirements: final-year student in CS, statistics or engineering. Apply via the official bank careers portal. Conversion to full-time for top performers."
+  },
+  {
+    "id": "good_04",
+    "expected": "Recommended",
+    "text": "AI Research Intern, university-affiliated lab. 3 months, remote, 15 hours per week, stipend 5,000 EGP per month. Work on NLP experiments with a PhD supervisor, weekly meetings, and a chance to co-author a workshop paper. Requirements: Python, PyTorch basics, interest in NLP. Application by email to the lab director with CV and transcript, followed by an interview."
+  },
+  {
+    "id": "caution_01",
+    "expected": "Consider with Caution",
+    "text": "Junior Data Analyst Intern at a small startup. 3 months, remote. Pay is not specified. You will help the team with dashboards and reports. Requirements: Excel and basic SQL. Send your CV to the founder's email. Hours and mentorship are not described."
+  },
+  {
+    "id": "caution_02",
+    "expected": "Consider with Caution",
+    "text": "Software Engineering Intern, 40 hours per week on site, 3 months, paid 2,000 EGP per month. Work on the company's internal tools. Requirements: knowledge of Java or Python. No mention of mentorship or training. Apply on the company website. Certificate on completion."
+  },
+  {
+    "id": "caution_03",
+    "expected": "Consider with Caution",
+    "text": "Digital Marketing Intern. Unpaid, 3 months, remote, 10 hours per week. You will learn SEO and social media from the marketing lead and receive a certificate and a recommendation letter. Company is a small agency with an active portfolio website. Requirements: good English and social media familiarity."
+  },
+  {
+    "id": "caution_04",
+    "expected": "Consider with Caution",
+    "text": "Machine Learning Intern wanted. Duration and pay to be discussed. The company works on AI solutions for clients. You will join an active team and learn on the job. Requirements: Python, TensorFlow, 1 year of experience. Contact us on LinkedIn to apply."
+  },
+  {
+    "id": "risk_01",
+    "expected": "High Risk",
+    "text": "URGENT!!! Data Entry Assistant needed. Earn $5000 per week from home! No experience needed. No interview. Guaranteed job. To start, send a copy of your national ID, your bank account number and a registration fee of $50 to our WhatsApp. Limited spots, reply today!"
+  },
+  {
+    "id": "risk_02",
+    "expected": "High Risk",
+    "text": "Marketing Intern wanted. Full-time, 9 AM to 6 PM, 6 days a week. Unpaid. Responsibilities will be explained later. Possibility of employment after completion. Must have 3 years of experience."
+  },
+  {
+    "id": "risk_03",
+    "expected": "High Risk",
+    "text": "Work from home and earn 300 dollars per day by processing online orders. Pay a refundable training deposit of 100 dollars to activate your account. We will send you a cheque to deposit and you forward part of it to our supplier. Message us on Telegram now, no CV needed, immediate start."
+  },
+  {
+    "id": "risk_04",
+    "expected": "High Risk",
+    "text": "Looking for interns for our exciting company. 12 hours a day, no breaks, no pay, no contract. You must bring your own laptop and pay 2,000 EGP for the uniform and materials. Duties include whatever management asks. Applications are accepted only through a personal WhatsApp number."
+  }
+]
